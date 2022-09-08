@@ -49,7 +49,7 @@ const onMousemove = (e: Event) => {
 
 const toGithub = () => {
   // window.location.href = "https://github.com/yangxuechen/resume_vue3_ts";
-  window.open("https://github.com/yangxuechen/resume_vue3_ts");
+  window.open("https://github.com/1602897363/sxh-rusume");
 };
 </script>
 
