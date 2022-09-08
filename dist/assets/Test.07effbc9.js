@@ -1,0 +1,1 @@
+import{R as a,S as s,O as d,P as t,V as e,f as c}from"./@vue.28b264ab.js";const o={},n=e();a("data-v-358ecd4d");const r={class:"contrainer"},v=c("div",null,"test",-1);s();const i=n(((a,s)=>(d(),t("div",r,[v]))));o.render=i,o.__scopeId="data-v-358ecd4d";export default o;
